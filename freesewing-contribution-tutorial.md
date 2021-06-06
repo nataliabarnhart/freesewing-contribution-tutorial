@@ -4,7 +4,7 @@ You — yes, you — can contribute to FreeSewing. On the way, you can learn a l
 
 I think the easiest way to get your feet wet is cruising around the documentation at [FreeSewing.org](https://freesewing.org/) or [FreeSewing.dev](https://freesewing.dev). Occasionally you’ll find a typo or a broken link, or just an opportunity to phrase something more clearly.
 
-On [FreeSewing.dev](https://freesewing.dev), you can click on [For Editors](https://freesewing.dev/editors/) for a friendly reference guide. At time of writing, I did that and tried clicking the Common tasks for editors](https://freesewing.dev/howtos/editors/) link at the bottom. It took me to a *Page not found* message with a sad robot. Yippee!! Let’s fix it.
+On [FreeSewing.dev](https://freesewing.dev), you can click on [For Editors](https://freesewing.dev/editors/) for a friendly reference guide. At time of writing, I did that and tried clicking the [Common tasks for editors](https://freesewing.dev/howtos/editors/) link at the bottom. It took me to a *Page not found* message with a sad robot. Yippee!! Let’s fix it.
 
 First, let’s find the correct link. I know I’m looking for a page called *Common tasks for editors*, so I click the magnifying glass icon, put “Common tasks for editors” in the search bar and get this: https://freesewing.dev/editors/howtos. Looks good.
 
